@@ -1,0 +1,1 @@
+main#blogs .card{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-ms-flex-align:center;align-items:center}main#blogs .card .card-image{height:180px;aspect-ratio:1;overflow:hidden}main#blogs .card .card-image img{width:100%;height:100%;-o-object-fit:cover;object-fit:cover}
